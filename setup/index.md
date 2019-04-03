@@ -4,7 +4,9 @@ title: Setup
 
 ## Installation instructions
 
-* Firt, run A
+* First, run A
 * Then, perform B
 * After that, load D
 * Finally, execute C
+
+Then do it all over again.
